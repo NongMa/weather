@@ -17,3 +17,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Secrets / local Firebase config (must never be committed)
+/app/google-services.json
