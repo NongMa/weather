@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fullscreen: let the animated sky render into display cutouts (notch / punch hole)
+         on every screen edge instead of stopping at the cutout. -->
+    <style name="Theme.Weather" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">天气预报</string>
+    <string name="retry">重试</string>
+    <string name="daily_forecast">未来预报</string>
+    <string name="humidity">湿度</string>
+    <string name="wind_speed">风速</string>
+    <string name="no_data">暂无数据</string>
+</resources>
